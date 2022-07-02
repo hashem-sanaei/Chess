@@ -21,9 +21,7 @@ import board.Move;
 import frame.Frame;
 import project.AIPlayer;
 import Pieces.*;
-import more.Trans;
 import project.AIPlayer;
-import frame.WDied;
 
 public class Game {
 	public static Board board = new Board();
